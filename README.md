@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Inamdar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Lover | Open Source Contributor</h3>
+<h3 align="center">🎓 3rd Year Undergraduate at IIIT Hyderabad</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+build+cool+stuff+with+MERN+stack.;Let's+connect+and+collaborate+🚀" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ## 🧰 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,mysql,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,mysql,git,github,vscode,postman" />
 </p>
 
 ---
@@ -55,18 +55,11 @@
 
 ---
 
-## 🚀 Currently Working On
 
-- A full-stack MERN marketplace for college buy/sell
-- Razorpay integration with custom auth
-- Building a personal project portfolio
-
----
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="30" /></a>
+  <a href="https://www.linkedin.com/in/manas-inamdar-66b409226/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
+<a href="mailto:manas.inamdar@students.iiit.ac.in"><img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="outlook" height="30" /></a>
 </p>
