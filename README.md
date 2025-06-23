@@ -14,26 +14,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manas-inamdar&show_icons=true&theme=radical&hide=prs" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-inamdar&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streaks
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manas-inamdar&theme=radical&hide_border=false"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manas-inamdar&theme=radical&row=1&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 ## 📍 Contribution Graph
 
