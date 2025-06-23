@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Inamdar</h1>
 <h3 align="center">🎓 3rd Year Undergraduate at IIIT Hyderabad</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+build+cool+stuff+with+MERN+stack.;Let's+connect+and+collaborate+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧰 Languages and Tools
