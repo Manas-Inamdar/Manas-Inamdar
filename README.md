@@ -19,15 +19,6 @@
 ---
 
 
-
-## 📍 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=manas-inamdar&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 👁️‍🗨️ Profile Views
 
 <p align="center">
