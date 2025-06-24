@@ -27,7 +27,7 @@
 
 
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me through :
 
 <p align="left">
   <a href="https://www.linkedin.com/in/manas-inamdar-66b409226/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
