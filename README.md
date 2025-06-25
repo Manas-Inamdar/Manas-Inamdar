@@ -10,14 +10,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manas-inamdar&show_icons=true&theme=radical&hide=prs" height="180px"/>
-</p>
-
----
-
+<!--
+  ## 📊 GitHub Stats
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=manas-inamdar&show_icons=true&theme=radical&hide=prs" height="180px"/>
+  </p>
+  
+  ---
+-->
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=manas-inamdar&label=Profile%20views&color=0e75b6&style=flat" alt="manas-inamdar" />
