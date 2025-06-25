@@ -10,7 +10,7 @@
 
 ---
 
-<!--
+
   ## 📊 GitHub Stats
   
   <p align="center">
@@ -18,7 +18,7 @@
   </p>
   
   ---
--->
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=manas-inamdar&label=Profile%20views&color=0e75b6&style=flat" alt="manas-inamdar" />
